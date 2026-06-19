@@ -104,9 +104,7 @@ house-price-bandung/
 │   └── logo.png                  # 🖼️ Logo Aplikasi
 │
 ├── laporan_model.md              # 📝 Laporan Teknis Model (Edi)
-├── tugas_role.md                 # 📋 Pembagian Tugas & Saran Commit
 ├── requirements.txt              # 📦 Dependensi Python
-├── .gitignore                    # 🚫 File yang Diabaikan Git
 └── README.md                     # 📖 Dokumentasi Utama (Akmal)
 ```
 
